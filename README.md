@@ -17,3 +17,7 @@
     OSM : ONLINE SHOPPING MANAGEMENT
     GRAPHICS_EDITOR
     SMS : STOCK MANAGEMENT SYSTEM
+#### LAB5 Usecase, Sequence & Activity Model
+    CMS: College Management System
+    HMS: Hostel Management System
+    SMS: Stock Management System
