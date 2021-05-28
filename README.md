@@ -15,8 +15,8 @@
     CVM : COFFEE VENDING MACHINE  
     RRM : RAILWAY MANAGEMENT SYSTEM
     OSM : ONLINE SHOPPING MANAGEMENT
-    GRAPHICS_EDITOR
     SMS : STOCK MANAGEMENT SYSTEM
+    GRAPHICS_EDITOR
 #### LAB5 Usecase, Sequence & Activity Model
     CMS: College Management System
     HMS: Hostel Management System
